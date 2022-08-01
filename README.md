@@ -39,7 +39,7 @@ Stand-alone executable
 It is easiest to simply download the compiled version which can be obtained from
 the releases page:
 
-    https://github.com/fireeye/flare-fakenet-ng/releases
+    https://github.com/mandiant/flare-fakenet-ng/releases
 
 Execute FakeNet-NG by running 'fakenet.exe'.
 
